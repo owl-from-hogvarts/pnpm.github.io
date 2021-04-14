@@ -15,9 +15,9 @@
             <description><![CDATA[There are many ways to create a nodemodules directory. Your goal must be to create the most strict one but if that is not possible, there are options to make a loose nodemodules as well.]]></description>
         </item>
         <item>
-            <title><![CDATA[平铺 node_modules 不是唯一的路]]></title>
+            <title><![CDATA[扁平的 node_modules 不是唯一的方法]]></title>
             <link>https://pnpm.io/zh/blog/2020/05/27/flat-node-modules-is-not-the-only-way</link>
-            <guid>平铺 node_modules 不是唯一的路</guid>
+            <guid>扁平的 node_modules 不是唯一的方法</guid>
             <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Pnpm 的新用户们经常会问我关于 pnpm 创建的奇怪的 node_modules 结构。 为什么不是平铺的？ 次级依赖去哪了？]]></description>
         </item>
