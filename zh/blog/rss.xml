@@ -8,11 +8,11 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Node-Modules configuration options with pnpm]]></title>
+            <title><![CDATA[pnpm的node_modules配置选项]]></title>
             <link>https://pnpm.io/zh/blog/2020/10/17/node-modules-configuration-options-with-pnpm</link>
-            <guid>Node-Modules configuration options with pnpm</guid>
+            <guid>pnpm的node_modules配置选项</guid>
             <pubDate>Sat, 17 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[There are many ways to create a nodemodules directory. Your goal must be to create the most strict one but if that is not possible, there are options to make a loose nodemodules as well.]]></description>
+            <description><![CDATA[有多种方式创建nodemodules目录。 但你一定想要以最严格的方式创建，当然如果你的当前项目无法使用严格的nodemodules结构，你可以配置为不严格的。]]></description>
         </item>
         <item>
             <title><![CDATA[扁平的 node_modules 不是唯一的方法]]></title>
