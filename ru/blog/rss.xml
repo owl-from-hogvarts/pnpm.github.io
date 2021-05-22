@@ -15,11 +15,11 @@
             <description><![CDATA[There are many ways to create a nodemodules directory. Your goal must be to create the most strict one but if that is not possible, there are options to make a loose nodemodules as well.]]></description>
         </item>
         <item>
-            <title><![CDATA[Flat node_modules is not the only way]]></title>
+            <title><![CDATA[Плоский node_modules не является единственным способом]]></title>
             <link>https://pnpm.io/ru/blog/2020/05/27/flat-node-modules-is-not-the-only-way</link>
-            <guid>Flat node_modules is not the only way</guid>
+            <guid>Плоский node_modules не является единственным способом</guid>
             <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[New users of pnpm frequently ask me about the weird structure of node_modules that pnpm creates. Why is it not flat? Where are all the sub-dependencies?]]></description>
+            <description><![CDATA[Новые пользователи pnpm часто спрашивают меня о странной структуре node_modules которую создает pnpm. Почему она не плоская? Где находятся все под-зависимости?]]></description>
         </item>
     </channel>
 </rss>
