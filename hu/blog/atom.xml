@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pnpm.io/blog</id>
+    <id>https://pnpm.io/hu/blog</id>
     <title>pnpm Blog</title>
     <updated>2020-10-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://pnpm.io/blog"/>
+    <link rel="alternate" href="https://pnpm.io/hu/blog"/>
     <subtitle>pnpm Blog</subtitle>
-    <icon>https://pnpm.io/img/favicon.png</icon>
+    <icon>https://pnpm.io/hu/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Node-Modules configuration options with pnpm]]></title>
         <id>Node-Modules configuration options with pnpm</id>
